@@ -127,7 +127,7 @@ FirstName_LastName_RollNumber
 
 ✅ **Correct:**
 ```
-Rocky_Kumar_B230001
+Rocky_Ganji_B230001
 Priya_Sharma_B230045
 Mohammed_Ali_B230112
 ```
@@ -144,13 +144,13 @@ rocky_kumar_b230001        ← all lowercase
 ### Create the folder:
 
 ```bash
-mkdir Rocky_Kumar_B230001
+mkdir Rocky_Ganji_B230001
 ```
 
 ### Go into your folder:
 
 ```bash
-cd Rocky_Kumar_B230001
+cd Rocky_Ganji_B230001
 ```
 
 > ⚠️ **Double-check your folder name before proceeding!** Renaming later is messy. Get it right the first time.
@@ -166,7 +166,7 @@ Let's say you've been given an assignment — a Jupyter Notebook called `python_
 **Option A: Copy the file using File Explorer / Finder**
 
 1. Open your file explorer
-2. Navigate to `ai-adventure/submissions/Rocky_Kumar_B230001/`
+2. Navigate to `ai-adventure/submissions/Rocky_Ganji_B230001/`
 3. Copy-paste your `python_fundamentals.ipynb` file into this folder
 
 **Option B: Copy using the terminal**
@@ -225,13 +225,13 @@ git status
 You'll see something like:
 ```
 Untracked files:
-    submissions/Rocky_Kumar_B230001/python_fundamentals.ipynb
+    submissions/Rocky_Ganji_B230001/python_fundamentals.ipynb
 ```
 
 Now stage (prepare) your files for commit:
 
 ```bash
-git add submissions/Rocky_Kumar_B230001/
+git add submissions/Rocky_Ganji_B230001/
 ```
 
 > 💡 **Why not `git add .`?** Using the specific path is safer — it ensures you're only adding YOUR files and not accidentally touching anything else.
@@ -349,14 +349,14 @@ git pull upstream main
 ### Then: Add your new assignment
 
 ```bash
-cd submissions/Rocky_Kumar_B230001
+cd submissions/Rocky_Ganji_B230001
 ```
 
 Copy your new assignment file here (e.g., `llm_basics.ipynb`), then:
 
 ```bash
 cd ../../..
-git add submissions/Rocky_Kumar_B230001/
+git add submissions/Rocky_Ganji_B230001/
 git commit -m "Add llm_basics assignment - Rocky Kumar B230001"
 git push origin main
 ```
@@ -371,7 +371,7 @@ As you submit more assignments, your folder grows:
 
 ```
 submissions/
-└── Rocky_Kumar_B230001/
+└── Rocky_Ganji_B230001/
     ├── python_fundamentals.ipynb      ← Assignment 1
     ├── python_oop.ipynb               ← Assignment 2
     ├── llm_basics.ipynb               ← Assignment 3
